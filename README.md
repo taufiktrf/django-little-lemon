@@ -1,7 +1,7 @@
 Usage
 ```
 git clone git@github.com:taufiktrf/django-little-lemon.git
-cd djangotutorial
+cd django-little-lemon
 python manage.py migrate
 python manage.py createsuperuser
 ```
