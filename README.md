@@ -9,3 +9,4 @@ follow the instructions and then to run,
 ```
 python manage.py runserver
 ```
+Then simply login with admin credentials you decided earlier to work with Menu
