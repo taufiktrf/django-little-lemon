@@ -1,6 +1,6 @@
 Usage
 ```
-git clone git@github.com:taufiktrf/djangotutorial.git
+git clone git@github.com:taufiktrf/django-little-lemon.git
 cd djangotutorial
 python manage.py migrate
 python manage.py createsuperuser
